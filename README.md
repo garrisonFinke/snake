@@ -1,1 +1,3 @@
-# snake
+# Snake
+
+Snake clone for Windows Console
